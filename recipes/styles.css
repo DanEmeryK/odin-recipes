@@ -1,0 +1,28 @@
+
+.title {
+    text-align: center;
+    font-weight: 800;
+    color: darkolivegreen;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.par {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.background {
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.lists {
+    float: left;
+    width: 49.9%;
+}
